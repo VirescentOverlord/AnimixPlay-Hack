@@ -6,9 +6,9 @@
 -  Setting up the iframe on the new tab
 -   Adding a few decorations.
 ## Directions
--Go to the anime and episode you want
--Run the code
--Press Play on the newly opened tab
+- Go to the anime and episode you want
+-  Run the code
+-  Press Play on the newly opened tab
 
 ## Issues & Bugs
 - Check for any mistakes you may have made 
