@@ -1,5 +1,5 @@
 ## **What Is AnimixPlay?**
-###  AnimixPlay is a free anime streaming website and it is personaly my favorite one to use.
+### <a href="https://animixplay.to/">AnimixPlay</a> is a free anime streaming website and it is personaly my favorite one to use.
 ## How it works
 - Getting the api of the video by using the (.src) method
 -  Creating a new tab (about:blank)
