@@ -1,13 +1,16 @@
 ## **What Is AnimixPlay?**
 ###  AnimixPlay is a free anime streaming website and it is personaly my favorite one to use.
 </br>
-#### **How it Works**
-##### First, i got the api of the video by using the (.src) method. Next i created a new tab (about:blank) set up the iframe and added a few decorations.
+## How it works
+- Getting the api of the video by using the (.src) method
+-  Creating a new tab (about:blank)
+-  Setting up the iframe on the new tab
+-   Adding a few decorations.
 </br>
-
-</br>
-###### ***Directions***
-####### First, go to the anime and episode you want. Next, run the code. You should be brought to another website with the anime episode on it
+## Directions
+-Go to the anime and episode you want
+-Run the code
+-Press Play on the newly opened tab
 </br>
 
 ## Issues & Bugs
