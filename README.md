@@ -7,7 +7,7 @@
 </br>
 
 </br>
-## **Directions**
+## ***Directions***
 ### First, go to the anime and episode you want. Next, run the code. You should be brought to another website with the anime episode on it
 </br>
 
